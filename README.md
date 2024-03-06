@@ -1,16 +1,7 @@
-# countriesv2
+# country_with_photo/video
 
-A new Flutter project.
+<img width="517" alt="image" src="https://github.com/Arh-Eli/country_with_photo/assets/145199743/eb4c356a-6751-4fa2-ba37-1b715a522483">
 
-## Getting Started
+<img width="518" alt="image" src="https://github.com/Arh-Eli/country_with_photo/assets/145199743/3e11bb1e-b749-412b-9a3b-d0730d50b190">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="482" alt="image" src="https://github.com/Arh-Eli/country_with_photo/assets/145199743/bddf85f9-30c4-4ea7-b4ed-5660a526b0bc">
